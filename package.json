@@ -18,7 +18,7 @@
   "author": "Fabio Berger",
   "license": "Apache-2.0",
   "dependencies": {
-    "0x.js": "^0.14.0",
+    "0x.js": "^0.15.0",
     "@types/accounting": "^0.4.1",
     "@types/query-string": "^5.0.0",
     "accounting": "^0.4.1",

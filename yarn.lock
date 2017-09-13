@@ -8,11 +8,12 @@
   dependencies:
     jsonschema "^1.2.0"
 
-"0x.js@^0.14.0":
-  version "0.14.0"
-  resolved "https://registry.yarnpkg.com/0x.js/-/0x.js-0.14.0.tgz#0a7037d9b2a18528a0ed3886d2edba910469f58f"
+"0x.js@^0.15.0":
+  version "0.15.0"
+  resolved "https://registry.yarnpkg.com/0x.js/-/0x.js-0.15.0.tgz#f96e51577b9bfc97a37fdffcf844a4c7ccbf5433"
   dependencies:
     "0x-json-schemas" "^0.5.1"
+    "@types/bignumber.js" "^4.0.2"
     bignumber.js "^4.0.2"
     compare-versions "^3.0.1"
     es6-promisify "^5.0.0"
