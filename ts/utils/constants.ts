@@ -95,6 +95,7 @@ export const constants = {
         'BQX': '/images/token_icons/bitquence.png',
         'LUN': '/images/token_icons/lunyr.png',
         'RLC': '/images/token_icons/iexec.png',
+        'RVT': '/images/token_icons/rivetz.png',
     } as {[symbol: string]: string},
     networkNameById: {
         1: 'Frontier',
